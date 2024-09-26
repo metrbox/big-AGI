@@ -25,6 +25,6 @@ export const Brand = {
     // OpenProject: 'https://github.com/users/enricoros/projects/4',
     // SupportInvite: 'https://discord.gg/MkH4qj2Jp9',
     // Twitter: 'https://www.twitter.com/enricoros',
-   // PrivacyPolicy: 'https://metrbox.com/privacy',
+   // PrivacyPolicy: 'https://big-agi.com/privacy',
   },
 } as const;
