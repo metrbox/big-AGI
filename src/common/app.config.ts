@@ -20,7 +20,7 @@ export const Brand = {
   URIs: {
      Home: 'https://metrbox.com',
      App: 'https://agi.metrbox.com',
-     CardImage: 'https://big-agi.com/icons/card-dark-1200.png',
+     CardImage: 'https://metrbox.com/wp-content/uploads/2024/09/x-card.png',
      OpenRepo: 'https://github.com/metrbox/big-agi',
      OpenProject: 'https://github.com/users/metrbox',
      SupportInvite: 'https://discord.gg/BCsxqtVt',
