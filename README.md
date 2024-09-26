@@ -21,7 +21,7 @@ Or fork & run on Vercel
 
 ### Quick links: 👉 [roadmap](https://github.com/users/enricoros/projects/4/views/2) 👉 [installation](docs/installation.md) 👉 [documentation](docs/README.md)
 
-### What's New in 1.16.1...1.16.8 · Sep 13, 2024 (patch releases)
+### What's New in 1.16.1.-.1.16.8 · Sep 13, 2024 (patch releases)
 
 - 1.16.8: OpenAI ChatGPT-4o Latest (o1-preview and o1-mini are supported in Big-AGI 2)
 - 1.16.7: OpenAI support for GPT-4o 2024-08-06
