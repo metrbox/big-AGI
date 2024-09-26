@@ -9,7 +9,7 @@
 export const Brand = {
   Title: {
     Base: 'MetrBox',
-    Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'big-AGI',
+    Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'MetrBox',
   },
   Meta: {
     Description: 'Unlock the full potential of AI, with precise control over your data and models. Voice interface, AI personas, advanced features, and fun UX.',
