@@ -97,6 +97,21 @@ export const navItems: {
       type: 'app',
       route: '/',
     },
+     {
+      name: 'Personas',
+      icon: Diversity2Icon, // was: Outlined.. but they look the same
+      // iconActive: Diversity2Icon,
+      type: 'app',
+      route: '/personas',
+      hideBar: true,
+    },
+    {
+      name: 'Tokenize',
+      icon: GrainIcon,
+      type: 'app',
+      route: '/tokens',
+      hideDrawer: true,
+    },
    // {
    //   name: 'Call',
    //   barTitle: 'Voice Calls',
@@ -155,21 +170,7 @@ export const navItems: {
       route: SPECIAL_DIVIDER,
       icon: () => null,
     },
-    {
-      name: 'Personas',
-      icon: Diversity2Icon, // was: Outlined.. but they look the same
-      // iconActive: Diversity2Icon,
-      type: 'app',
-      route: '/personas',
-      hideBar: true,
-    },
-    {
-      name: 'Tokenize',
-      icon: GrainIcon,
-      type: 'app',
-      route: '/tokens',
-      hideDrawer: true,
-    },
+   
     {
       name: 'Beam',
       icon: ChatBeamIcon,
