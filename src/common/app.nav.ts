@@ -105,13 +105,13 @@ export const navItems: {
       route: '/personas',
       hideBar: true,
     },
-    {
-      name: 'Tokenize',
-      icon: GrainIcon,
-      type: 'app',
-      route: '/tokens',
-      hideDrawer: true,
-    },
+     // {
+     // name: 'Tokenize',
+     // icon: GrainIcon,
+     // type: 'app',
+     // route: '/tokens',
+     // hideDrawer: true,
+   // },
    // {
    //   name: 'Call',
    //   barTitle: 'Voice Calls',
