@@ -8,12 +8,12 @@
  */
 export const Brand = {
   Title: {
-    Base: 'MetrBox-AGI',
+    Base: 'MetrBox',
     Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'big-AGI',
   },
   Meta: {
     Description: 'Unlock the full potential of AI, with precise control over your data and models. Voice interface, AI personas, advanced features, and fun UX.',
-    SiteName: 'Metrbox-AGI | Unlocking AI Potential',
+    SiteName: 'Metrbox | Unlocking AI Potential',
     ThemeColor: '#32383E',
     TwitterSite: '@0xbloks',
   },
@@ -25,6 +25,6 @@ export const Brand = {
     // OpenProject: 'https://github.com/users/enricoros/projects/4',
     // SupportInvite: 'https://discord.gg/MkH4qj2Jp9',
     // Twitter: 'https://www.twitter.com/enricoros',
-    PrivacyPolicy: 'https://metrbox.com/privacy',
+   // PrivacyPolicy: 'https://metrbox.com/privacy',
   },
 } as const;
